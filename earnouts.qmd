@@ -1,0 +1,59 @@
+---
+title: "Designing an earn-out that survives the first year"
+subtitle: "A buyer's guide for small digital business acquisitions"
+author: "Joash Boyton, CEO of Acquiry"
+date: "2026-11-13"
+format:
+  html:
+    toc: true
+---
+
+*By Joash Boyton, CEO of [Acquiry](https://www.acquiry.com/), Melbourne.*
+
+An earn-out pays part of the purchase price later, if the business hits agreed targets after completion. In small digital deals it often bridges a gap: the seller believes in next year's growth, the buyer wants to pay for it only once it shows up. Used well, it keeps a deal alive. Used badly, it turns into a dispute twelve months later.
+
+This guide sets out how I suggest buyers design one.
+
+## 1. Use an earn-out to bridge a real disagreement
+
+An earn-out makes sense when the two sides disagree about something that will be measurable soon: a new product line, a large contract in negotiation, or a recent change in pricing. It makes less sense as a way to lower the headline price of a business that is simply worth less than the seller hoped. If the gap is about valuation, talk about valuation. Acquiry's [digital business valuation multiples](https://www.acquiry.com/data/multiples/) are a useful neutral reference for that conversation.
+
+## 2. Pick a metric both sides can see
+
+The metric should be simple, auditable and hard to manipulate by either party.
+
+- **Revenue** is the easiest to verify but rewards growth at any cost.
+- **Gross profit** is harder to game than revenue and still easy to read from accounts.
+- **EBITDA or SDE** reflects the whole business, but after completion the buyer controls costs, so sellers rarely accept it without protections. The free [SDE and EBITDA calculator](https://www.acquiry.com/tools/sde-ebitda-calculator/) shows how sensitive these figures are to small adjustments.
+- **Operational metrics** such as active subscribers can work if the definition is written down precisely.
+
+Whatever you choose, define it in the agreement with an example calculation.
+
+## 3. Keep the period short
+
+For businesses at the smaller end of the market, twelve months is usually enough and twenty-four is usually the limit. Longer periods ask the seller to bet on decisions they no longer make.
+
+## 4. Write down how the business will be run
+
+Most earn-out disputes are about conduct, not arithmetic. The seller worries the buyer will move costs, change pricing or merge the business into a larger group so the target can never be met. Agree a short list of things the buyer will or will not do during the period, and what happens if the business is integrated early.
+
+## 5. Use bands, not a cliff
+
+A single target creates an all-or-nothing outcome and an incentive to argue about the last dollar. A sliding scale, for example a portion paid at 80 per cent of target rising to the full amount at 100 per cent, is easier to live with.
+
+## 6. Agree the reporting and the dispute path up front
+
+Set out who prepares the earn-out statement, when, what the other side can review, and who decides if you disagree. An independent accountant named in advance is far cheaper than lawyers named afterwards.
+
+## A simple test
+
+If you cannot explain the earn-out to the seller in two minutes, with a worked example, it is too complicated.
+
+## Further reading from Acquiry
+
+- [The Acquiry M&A process](https://www.acquiry.com/process/)
+- [Digital M&A research](https://www.acquiry.com/research/)
+- [Buy-side acquisition advisory](https://www.acquiry.com/acquisitions/)
+- [Start a confidential M&A mandate](https://www.acquiry.com/mandate/)
+
+*General information only, not legal, tax or financial advice.*
