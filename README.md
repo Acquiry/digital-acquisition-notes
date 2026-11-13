@@ -6,6 +6,7 @@ Buyer notes on acquiring digital businesses by Joash Boyton, CEO of [Acquiry](ht
 
 - [Designing an earn-out that survives the first year](earn-outs.md)
 - [Buying a digital agency: what transfers with the clients, and what does not](buying-a-digital-agency.md)
+- - [Buying a business that depends on one platform: concentration risk beyond customers](platform-dependency.md)
 
 ## Acquiry resources
 
